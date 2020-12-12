@@ -4,9 +4,9 @@ There are 2 "versions" of the program: the **raw** and the **smart**. The former
 
 Thanks to @techwithtim & @ForrestKnight for the inspiration. <br><br> 
 __Check their videos here:__ <br>
-Tim's video: https://www.youtube.com/watch?v=jl5yUEdekEM&t=226s&ab_channel=TechWithTim (the Sudoku part starts at min 1:35) <br>  
-He also has some tutorials if you need some extra help: https://www.youtube.com/watch?v=eqUwSA0xI-s&t=47s&ab_channel=TechWithTim <br>
-ForrestKnight's video: https://www.youtube.com/watch?v=yw8sBFtnlVQ&t=769s&ab_channel=ForrestKnight <br>
+Tim's video: https://www.youtube.com/watch?v=jl5yUEdekEM&t=226s&ab_channel=TechWithTim (the Sudoku part starts at min 1:35)<br>  
+He also has some tutorials if you need some extra help: https://www.youtube.com/watch?v=eqUwSA0xI-s&t=47s&ab_channel=TechWithTim<br>
+ForrestKnight's video: https://www.youtube.com/watch?v=yw8sBFtnlVQ&t=769s&ab_channel=ForrestKnight<br>
 
 # Usage
 __Run:__<br> 
