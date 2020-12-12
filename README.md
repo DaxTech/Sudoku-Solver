@@ -9,7 +9,7 @@ He also has some tutorials if you need some extra help: https://www.youtube.com/
 ForrestKnight's video: https://www.youtube.com/watch?v=yw8sBFtnlVQ&t=769s&ab_channel=ForrestKnight
 
 # Usage
-Run: 
-    `python text_demo.py <filename> <grid number> <raw/smart> to see the text-based execution of the program.  
-    python raw_visualization.py <filename> <grid number> to see how the raw backtracking algorithm works.  
-    python smart_visualization.py <filename> <grid number> to see how the smart backtracking algorithm works.`  
+Run:<br> 
+    `python text_demo.py <filename> <grid number> <raw/smart> to see the text-based execution of the program.`<br> 
+    `python raw_visualization.py <filename> <grid number> to see how the raw backtracking algorithm works. `<br> 
+    `python smart_visualization.py <filename> <grid number> to see how the smart backtracking algorithm works.`<br>  
