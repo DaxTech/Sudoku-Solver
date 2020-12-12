@@ -5,4 +5,7 @@ There are 2 "versions" of the program: the raw and the smart. The former uses th
 Thanks to @techwithtim & @ForrestKnight for the inspiration.
 
 # Usage
-Run: python text_demo.py <filename> <grid number> <raw/smart> to 
+Run: 
+  python text_demo.py <filename> <grid number> <raw/smart> to see the text-based execution of the program.
+  python raw_visualization.py <filename> <grid number> to see how the raw backtracking algorithm works.
+  python smart_visualization.py <filename> <grid number> to see how the smart backtracking algorithm works.
