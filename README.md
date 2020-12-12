@@ -10,6 +10,6 @@ ForrestKnight's video: https://www.youtube.com/watch?v=yw8sBFtnlVQ&t=769s&ab_cha
 
 # Usage
 Run: 
-    python text_demo.py <filename> <grid number> <raw/smart> to see the text-based execution of the program.
-    python raw_visualization.py <filename> <grid number> to see how the raw backtracking algorithm works.
-    python smart_visualization.py <filename> <grid number> to see how the smart backtracking algorithm works.
+    `python text_demo.py <filename> <grid number> <raw/smart> to see the text-based execution of the program.  
+    python raw_visualization.py <filename> <grid number> to see how the raw backtracking algorithm works.  
+    python smart_visualization.py <filename> <grid number> to see how the smart backtracking algorithm works.`  
