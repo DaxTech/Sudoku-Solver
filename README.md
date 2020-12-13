@@ -10,9 +10,9 @@ ForrestKnight's video: https://www.youtube.com/watch?v=yw8sBFtnlVQ&t=769s&ab_cha
 
 # Usage
 __Run:__<br> 
-    `python text_demo.py <filename> <grid number> <raw/smart> to see the text-based execution of the program.`<br> 
-    `python raw_visualization.py <filename> <grid number> to see how the raw backtracking algorithm works. `<br> 
-    `python smart_visualization.py <filename> <grid number> to see how the smart backtracking algorithm works.`<br>
+    `python text_demo.py <filename> <grid number> <raw/smart>` to see the text-based execution of the program.<br> 
+    `python raw_visualization.py <filename> <grid number>` and press SPACE to see how the raw backtracking algorithm works.<br> 
+    `python smart_visualization.py <filename> <grid number>` and press SPACE to see how the smart backtracking algorithm works.<br>
 
 ## Extra
 If you want the program to solve a puzzle that is not in the given files, add it to the end of any of the txt file using the same format.
